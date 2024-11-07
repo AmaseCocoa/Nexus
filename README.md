@@ -1,2 +1,2 @@
-# Nexus
+# Nexus Framework
 🔌 Modulable Web Framework
